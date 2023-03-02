@@ -2,7 +2,6 @@
 
 # E-commerce-Website
 
-# fooder
 Online Food Website(Similar to Zomato, Swiggy)
 
 This is a Online Food Ordering Website which include following features:
